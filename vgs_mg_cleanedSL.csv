@@ -1,0 +1,326 @@
+name,year,developer,publisher,film,rank,platform,genre,na_sales,eu_sales,jp_sales,other_sales,global_sales
+Alien Trilogy,1996,Probe Entertainment,Acclaim Entertainment,Alien film series,4150,PS,Shooter,0.24,0.16,0.04,0.03,0.47
+Aliens: Colonial Marines,2013,Gearbox Software[b],Sega,Alien film series,2574,X360,Shooter,0.36,0.37,0.0,0.07,0.8
+Aliens: Colonial Marines,2013,Gearbox Software[b],Sega,Alien film series,3141,PS3,Shooter,0.2,0.31,0.0,0.13,0.64
+Aliens: Colonial Marines,2013,Gearbox Software[b],Sega,Alien film series,8116,PC,Shooter,0.1,0.06,0.0,0.02,0.18
+Alvin and the Chipmunks,2007,Sensory Sweep Studios,Brash Entertainment,Alvin and the Chipmunks,9251,DS,Misc,0.12,0.0,0.0,0.01,0.14
+Alvin and the Chipmunks,2007,Sensory Sweep Studios,Brash Entertainment,Alvin and the Chipmunks,11853,PS2,Misc,0.04,0.03,0.0,0.01,0.07
+Alvin and the Chipmunks: The Squeakquel,2009,ImaginEngine,Majesco Entertainment,Alvin and the Chipmunks: The Squeakquel,5927,DS,Misc,0.28,0.0,0.0,0.02,0.3
+Alvin and the Chipmunks: The Squeakquel,2009,ImaginEngine,Majesco Entertainment,Alvin and the Chipmunks: The Squeakquel,10505,Wii,Misc,0.09,0.0,0.0,0.01,0.1
+The Ant Bully,2006,Artificial Mind and Movement,Midway Games,The Ant Bully,9733,GC,Platform,0.09,0.02,0.0,0.0,0.12
+The Ant Bully,2006,Artificial Mind and Movement,Midway Games,The Ant Bully,10575,PS2,Platform,0.05,0.04,0.0,0.01,0.1
+The Ant Bully,2006,Artificial Mind and Movement,Midway Games,The Ant Bully,11146,Wii,Platform,0.08,0.0,0.0,0.01,0.09
+The Ant Bully,2006,Artificial Mind and Movement,Midway Games,The Ant Bully,14068,GBA,Platform,0.03,0.01,0.0,0.0,0.04
+Antz Extreme Racing,2002,Supersonic Software,Empire Interactive,Antz,13768,PS2,Racing,0.02,0.02,0.0,0.01,0.04
+Antz Extreme Racing,2002,Supersonic Software,Empire Interactive,Antz,15897,XB,Racing,0.01,0.0,0.0,0.0,0.02
+Arthur and the Invisibles,2007,Etranges Libellules,Atari,Arthur and the Invisibles,14292,DS,Adventure,0.03,0.0,0.0,0.0,0.03
+Bad Boys: Miami Takedown,2004,Blitz Games,Empire Interactive,Bad Boys II,1767,PS2,Shooter,0.56,0.44,0.0,0.15,1.15
+Bad Boys: Miami Takedown,2004,Blitz Games,Empire Interactive,Bad Boys II,8090,XB,Shooter,0.14,0.04,0.0,0.01,0.18
+Bad Boys: Miami Takedown,2004,Blitz Games,Empire Interactive,Bad Boys II,13451,GC,Shooter,0.03,0.01,0.0,0.0,0.05
+Barnyard,2006,Blue Tongue Entertainment,THQ,Barnyard,9970,GC,Action,0.09,0.02,0.0,0.0,0.12
+Barnyard,2006,Blue Tongue Entertainment,THQ,Barnyard,10836,PS2,Action,0.05,0.04,0.0,0.01,0.09
+Barnyard,2006,Blue Tongue Entertainment,THQ,Barnyard,13239,GBA,Action,0.03,0.01,0.0,0.0,0.05
+Barnyard,2006,Blue Tongue Entertainment,THQ,Barnyard,13591,Wii,Action,0.04,0.0,0.0,0.0,0.04
+Batman Forever: The Arcade Game,1996,Probe Entertainment,Acclaim Entertainment,Batman Forever,14192,PS,Action,0.02,0.01,0.0,0.0,0.03
+Bee Movie Game,2007,"Beenox (Xbox 360, PS2, PC)",Activision,Bee Movie,4372,DS,Action,0.41,0.0,0.0,0.03,0.45
+Bee Movie Game,2007,"Beenox (Xbox 360, PS2, PC)",Activision,Bee Movie,5393,Wii,Action,0.31,0.01,0.0,0.03,0.34
+Bee Movie Game,2007,"Beenox (Xbox 360, PS2, PC)",Activision,Bee Movie,8322,X360,Action,0.16,0.0,0.0,0.01,0.17
+Bee Movie Game,2007,"Beenox (Xbox 360, PS2, PC)",Activision,Bee Movie,10611,PS2,Action,0.05,0.04,0.0,0.01,0.1
+Beowulf: The Game,2007,Ubisoft Shanghai,Ubisoft,Beowulf,4785,X360,Action,0.36,0.01,0.0,0.03,0.4
+Beowulf: The Game,2007,Ubisoft Shanghai,Ubisoft,Beowulf,8541,PS3,Action,0.14,0.01,0.0,0.01,0.16
+Beowulf: The Game,2007,Ubisoft Shanghai,Ubisoft,Beowulf,11062,PSP,Action,0.08,0.0,0.0,0.01,0.09
+Blade II,2002,Mucky Foot Productions,Activision,Blade II,5803,PS2,Action,0.15,0.12,0.0,0.04,0.31
+Blade II,2002,Mucky Foot Productions,Activision,Blade II,9353,XB,Action,0.1,0.03,0.0,0.0,0.13
+Bolt,2008,"Avalanche Software, Altron",Disney Interactive Studios,Bolt,3258,DS,Adventure,0.35,0.21,0.0,0.06,0.62
+Bolt,2008,"Avalanche Software, Altron",Disney Interactive Studios,Bolt,3557,Wii,Adventure,0.19,0.31,0.0,0.06,0.57
+Bolt,2008,"Avalanche Software, Altron",Disney Interactive Studios,Bolt,6478,PS2,Adventure,0.09,0.02,0.0,0.16,0.26
+Bolt,2008,"Avalanche Software, Altron",Disney Interactive Studios,Bolt,6710,X360,Adventure,0.18,0.05,0.0,0.02,0.25
+Bolt,2008,"Avalanche Software, Altron",Disney Interactive Studios,Bolt,7939,PS3,Adventure,0.12,0.05,0.0,0.02,0.19
+Cars,2006,Locomotive Games (PSP),THQ,Cars,1643,PSP,Racing,0.72,0.29,0.0,0.21,1.22
+Cars,2006,Locomotive Games (PSP),THQ,Cars,1653,PS2,Racing,1.01,0.04,0.0,0.16,1.21
+Cars,2006,Locomotive Games (PSP),THQ,Cars,1807,GBA,Racing,0.81,0.3,0.0,0.02,1.13
+Cars,2006,Locomotive Games (PSP),THQ,Cars,2106,DS,Racing,0.85,0.05,0.0,0.08,0.98
+Cars,2006,Locomotive Games (PSP),THQ,Cars,2203,Wii,Racing,0.83,0.04,0.0,0.07,0.94
+Cars,2006,Locomotive Games (PSP),THQ,Cars,2241,GC,Racing,0.72,0.19,0.0,0.03,0.93
+Cars,2006,Locomotive Games (PSP),THQ,Cars,6651,X360,Racing,0.22,0.02,0.0,0.02,0.25
+Cars,2006,Locomotive Games (PSP),THQ,Cars,7584,XB,Racing,0.15,0.04,0.0,0.01,0.2
+Cars Mater-National Championship,2007,"Rainbow Studios (PlayStation 2, Xbox 360, Microsoft Windows)",THQ,Cars,4020,Wii,Racing,0.46,0.0,0.0,0.04,0.49
+Cars 2,2011,Avalanche Software,Disney Interactive Studios,Cars 2,1498,DS,Racing,0.72,0.44,0.04,0.12,1.32
+Cars 2,2011,Avalanche Software,Disney Interactive Studios,Cars 2,2182,Wii,Racing,0.46,0.39,0.0,0.1,0.95
+Cars 2,2011,Avalanche Software,Disney Interactive Studios,Cars 2,3735,PS3,Racing,0.22,0.23,0.0,0.09,0.54
+Cars 2,2011,Avalanche Software,Disney Interactive Studios,Cars 2,4000,X360,Racing,0.28,0.17,0.0,0.05,0.5
+Cars 2,2011,Avalanche Software,Disney Interactive Studios,Cars 2,7133,3DS,Racing,0.21,0.0,0.0,0.02,0.23
+Cars 2,2011,Avalanche Software,Disney Interactive Studios,Cars 2,9749,PSP,Racing,0.1,0.01,0.0,0.01,0.12
+Catwoman,2004,Argonaut Games[6][g],Electronic Arts,Catwoman,8366,PS2,Action,0.08,0.06,0.0,0.02,0.17
+Catwoman,2004,Argonaut Games[6][g],Electronic Arts,Catwoman,12037,GC,Action,0.05,0.01,0.0,0.0,0.07
+Catwoman,2004,Argonaut Games[6][g],Electronic Arts,Catwoman,12689,XB,Action,0.04,0.01,0.0,0.0,0.06
+Catwoman,2004,Argonaut Games[6][g],Electronic Arts,Catwoman,13699,GBA,Action,0.03,0.01,0.0,0.0,0.04
+Charlotte's Web,2006,Backbone Entertainment,Sega,Charlotte's Web,11224,DS,Action,0.08,0.0,0.0,0.01,0.09
+The Cheetah Girls: Passport to Stardom,2008,Handheld Games,Disney Interactive Studios,The Cheetah Girls: One World,7658,DS,Misc,0.18,0.0,0.0,0.01,0.2
+Chicken Run,2000,Blitz Games,Eidos Interactive,Chicken Run,9410,PS,Adventure,0.07,0.05,0.0,0.01,0.13
+Despicable Me: The Game,2010,Vicious Cycle Software,D3Publisher,Despicable Me,5544,Wii,Platform,0.19,0.12,0.0,0.03,0.33
+Despicable Me: The Game,2010,Vicious Cycle Software,D3Publisher,Despicable Me,8288,PSP,Platform,0.05,0.08,0.0,0.04,0.17
+Despicable Me: The Game,2010,Vicious Cycle Software,D3Publisher,Despicable Me,10462,PS2,Platform,0.05,0.04,0.0,0.01,0.1
+Die Hard Trilogy,1996,Probe Entertainment,Fox Interactive,First three films in the Die Hard film series,1218,PS,Shooter,0.85,0.58,0.0,0.1,1.54
+Disney's Stitch: Experiment 626,2002,High Voltage Software,Sony Computer Entertainment,Lilo & Stitch,5817,PS2,Action,0.15,0.12,0.0,0.04,0.31
+Driven,2001,Crawfish Interactive,BAM! Entertainment,Driven,8726,PS2,Racing,0.08,0.06,0.0,0.02,0.15
+Driven,2001,Crawfish Interactive,BAM! Entertainment,Driven,14171,GBA,Racing,0.02,0.01,0.0,0.0,0.03
+Finding Nemo,2003,KnowWonder (PC & Mac),THQ,Finding Nemo,521,GBA,Action,1.59,1.05,0.04,0.14,2.82
+Finding Nemo,2003,KnowWonder (PC & Mac),THQ,Finding Nemo,795,PS2,Action,1.26,0.6,0.05,0.18,2.09
+Finding Nemo,2003,KnowWonder (PC & Mac),THQ,Finding Nemo,2339,GC,Action,0.69,0.18,0.0,0.02,0.89
+Finding Nemo,2003,KnowWonder (PC & Mac),THQ,Finding Nemo,3063,XB,Action,0.48,0.16,0.0,0.02,0.66
+G-Force,2009,Eurocom (PC/PS2/PS3/X360/Wii),Disney Interactive Studios,G-Force,3618,DS,Action,0.27,0.23,0.0,0.06,0.56
+G-Force,2009,Eurocom (PC/PS2/PS3/X360/Wii),Disney Interactive Studios,G-Force,4436,Wii,Action,0.19,0.2,0.0,0.05,0.44
+G-Force,2009,Eurocom (PC/PS2/PS3/X360/Wii),Disney Interactive Studios,G-Force,6320,PS2,Action,0.12,0.01,0.0,0.14,0.27
+G-Force,2009,Eurocom (PC/PS2/PS3/X360/Wii),Disney Interactive Studios,G-Force,7156,PS3,Action,0.13,0.06,0.0,0.03,0.22
+G-Force,2009,Eurocom (PC/PS2/PS3/X360/Wii),Disney Interactive Studios,G-Force,8382,X360,Action,0.11,0.05,0.0,0.01,0.17
+G.I. Joe: The Rise of Cobra,2009,Double Helix Games (PS2/PS3/PSP/X360/Wii),Electronic Arts,G.I. Joe: The Rise of Cobra,6934,X360,Action,0.17,0.05,0.0,0.02,0.24
+G.I. Joe: The Rise of Cobra,2009,Double Helix Games (PS2/PS3/PSP/X360/Wii),Electronic Arts,G.I. Joe: The Rise of Cobra,7244,Wii,Action,0.17,0.03,0.0,0.02,0.22
+G.I. Joe: The Rise of Cobra,2009,Double Helix Games (PS2/PS3/PSP/X360/Wii),Electronic Arts,G.I. Joe: The Rise of Cobra,7378,PS3,Action,0.11,0.07,0.0,0.03,0.21
+G.I. Joe: The Rise of Cobra,2009,Double Helix Games (PS2/PS3/PSP/X360/Wii),Electronic Arts,G.I. Joe: The Rise of Cobra,9028,PS2,Action,0.11,0.0,0.0,0.03,0.14
+G.I. Joe: The Rise of Cobra,2009,Double Helix Games (PS2/PS3/PSP/X360/Wii),Electronic Arts,G.I. Joe: The Rise of Cobra,9036,PSP,Action,0.11,0.02,0.0,0.02,0.14
+G.I. Joe: The Rise of Cobra,2009,Double Helix Games (PS2/PS3/PSP/X360/Wii),Electronic Arts,G.I. Joe: The Rise of Cobra,9272,DS,Action,0.11,0.01,0.0,0.01,0.14
+Ghostbusters: The Video Game,2009,"Terminal Reality (Xbox 360, PS3, PC)",Atari,Ghostbusters franchise,2362,Wii,Action,0.6,0.21,0.0,0.08,0.88
+Ghostbusters: The Video Game,2009,"Terminal Reality (Xbox 360, PS3, PC)",Atari,Ghostbusters franchise,3195,X360,Action,0.43,0.14,0.0,0.06,0.63
+Ghostbusters: The Video Game,2009,"Terminal Reality (Xbox 360, PS3, PC)",Atari,Ghostbusters franchise,4529,PS2,Action,0.15,0.04,0.0,0.24,0.43
+Ghostbusters: The Video Game,2009,"Terminal Reality (Xbox 360, PS3, PC)",Atari,Ghostbusters franchise,4678,DS,Action,0.26,0.12,0.0,0.04,0.41
+Ghostbusters: The Video Game,2009,"Terminal Reality (Xbox 360, PS3, PC)",Atari,Ghostbusters franchise,8038,PSP,Action,0.16,0.01,0.0,0.02,0.18
+The Godfather,2006,EA Redwood Shores,Electronic Arts,The Godfather,1885,PS2,Action,0.89,0.03,0.01,0.15,1.09
+The Godfather II,2009,EA Redwood Shores,Electronic Arts,The Godfather Part II,2596,X360,Action,0.47,0.24,0.01,0.08,0.79
+The Godfather II,2009,EA Redwood Shores,Electronic Arts,The Godfather Part II,2739,PS3,Action,0.41,0.22,0.01,0.11,0.75
+The Golden Compass,2007,Shiny Entertainment,Sega,The Golden Compass,3344,DS,Action,0.28,0.25,0.0,0.06,0.6
+The Golden Compass,2007,Shiny Entertainment,Sega,The Golden Compass,3834,PS2,Action,0.13,0.0,0.0,0.39,0.52
+The Golden Compass,2007,Shiny Entertainment,Sega,The Golden Compass,4286,X360,Action,0.3,0.12,0.0,0.04,0.46
+The Golden Compass,2007,Shiny Entertainment,Sega,The Golden Compass,6104,PS3,Action,0.14,0.1,0.0,0.05,0.29
+GoldenEye 007,1997,Rare,Nintendo,GoldenEye,85,N64,Shooter,5.8,2.01,0.13,0.15,8.09
+Happy Feet,2006,Artificial Mind and Movement,Midway Games,Happy Feet,5737,DS,Action,0.27,0.01,0.0,0.02,0.31
+Happy Feet,2006,Artificial Mind and Movement,Midway Games,Happy Feet,6636,GC,Action,0.2,0.05,0.0,0.01,0.25
+Happy Feet,2006,Artificial Mind and Movement,Midway Games,Happy Feet,9257,Wii,Action,0.12,0.0,0.0,0.01,0.14
+Harry Potter and the Goblet of Fire,2005,EA UK,Electronic Arts,Harry Potter and the Goblet of Fire,3122,PS2,Action,0.54,0.02,0.0,0.09,0.65
+Harry Potter and the Goblet of Fire,2005,EA UK,Electronic Arts,Harry Potter and the Goblet of Fire,3322,GBA,Action,0.44,0.16,0.0,0.01,0.61
+Harry Potter and the Goblet of Fire,2005,EA UK,Electronic Arts,Harry Potter and the Goblet of Fire,4640,GC,Action,0.32,0.08,0.0,0.01,0.42
+Harry Potter and the Goblet of Fire,2005,EA UK,Electronic Arts,Harry Potter and the Goblet of Fire,6825,DS,Action,0.21,0.02,0.0,0.02,0.24
+Harry Potter and the Goblet of Fire,2005,EA UK,Electronic Arts,Harry Potter and the Goblet of Fire,6976,XB,Action,0.18,0.05,0.0,0.01,0.23
+Harry Potter and the Goblet of Fire,2005,EA UK,Electronic Arts,Harry Potter and the Goblet of Fire,7682,PSP,Action,0.17,0.01,0.0,0.02,0.2
+Harry Potter and the Order of the Phoenix,2007,EA UK,Electronic Arts,Harry Potter and the Order of the Phoenix,2442,DS,Action,0.28,0.47,0.0,0.1,0.85
+Harry Potter and the Order of the Phoenix,2007,EA UK,Electronic Arts,Harry Potter and the Order of the Phoenix,4080,Wii,Action,0.38,0.06,0.0,0.04,0.49
+Harry Potter and the Order of the Phoenix,2007,EA UK,Electronic Arts,Harry Potter and the Order of the Phoenix,5133,PSP,Action,0.1,0.17,0.0,0.1,0.37
+Harry Potter and the Order of the Phoenix,2007,EA UK,Electronic Arts,Harry Potter and the Order of the Phoenix,5892,X360,Action,0.24,0.04,0.0,0.02,0.3
+Harry Potter and the Order of the Phoenix,2007,EA UK,Electronic Arts,Harry Potter and the Order of the Phoenix,6353,PS2,Action,0.13,0.1,0.0,0.03,0.27
+Harry Potter and the Order of the Phoenix,2007,EA UK,Electronic Arts,Harry Potter and the Order of the Phoenix,6744,PS3,Action,0.18,0.04,0.0,0.03,0.25
+Harry Potter and the Order of the Phoenix,2007,EA UK,Electronic Arts,Harry Potter and the Order of the Phoenix,13876,PC,Action,0.0,0.03,0.0,0.01,0.04
+Harry Potter and the Half-Blood Prince,2009,EA Bright Light,Electronic Arts,Harry Potter and the Half-Blood Prince,2659,Wii,Action,0.28,0.4,0.0,0.09,0.77
+Harry Potter and the Half-Blood Prince,2009,EA Bright Light,Electronic Arts,Harry Potter and the Half-Blood Prince,3136,PS2,Action,0.13,0.07,0.0,0.44,0.64
+Harry Potter and the Half-Blood Prince,2009,EA Bright Light,Electronic Arts,Harry Potter and the Half-Blood Prince,3204,DS,Action,0.21,0.35,0.0,0.07,0.63
+Harry Potter and the Half-Blood Prince,2009,EA Bright Light,Electronic Arts,Harry Potter and the Half-Blood Prince,3928,PSP,Action,0.18,0.21,0.0,0.12,0.51
+Harry Potter and the Half-Blood Prince,2009,EA Bright Light,Electronic Arts,Harry Potter and the Half-Blood Prince,5398,PS3,Action,0.15,0.13,0.0,0.06,0.34
+Harry Potter and the Half-Blood Prince,2009,EA Bright Light,Electronic Arts,Harry Potter and the Half-Blood Prince,5654,X360,Action,0.17,0.12,0.0,0.03,0.32
+Harry Potter and the Half-Blood Prince,2009,EA Bright Light,Electronic Arts,Harry Potter and the Half-Blood Prince,14416,PC,Action,0.0,0.03,0.0,0.01,0.03
+High School Musical: Makin' the Cut!,2007,A2M,Disney Interactive Studios,High School Musical,741,DS,Puzzle,1.06,0.91,0.0,0.23,2.2
+High School Musical 2: Work This Out!,2008,Artificial Mind and Movement,Disney Interactive Studios,High School Musical 2,1775,DS,Misc,0.5,0.52,0.0,0.13,1.15
+How to Train Your Dragon,2010,Etranges Libellules,Activision,How to Train Your Dragon,3737,DS,Action,0.32,0.17,0.0,0.05,0.54
+How to Train Your Dragon,2010,Etranges Libellules,Activision,How to Train Your Dragon,4531,Wii,Action,0.24,0.15,0.0,0.04,0.43
+How to Train Your Dragon,2010,Etranges Libellules,Activision,How to Train Your Dragon,8049,PS3,Action,0.12,0.04,0.0,0.02,0.18
+How to Train Your Dragon,2010,Etranges Libellules,Activision,How to Train Your Dragon,9145,X360,Action,0.11,0.02,0.0,0.01,0.14
+Hulk,2003,Radical Entertainment,Universal Interactive,Hulk,1953,PS2,Action,0.52,0.41,0.0,0.14,1.06
+Hulk,2003,Radical Entertainment,Universal Interactive,Hulk,5471,XB,Action,0.25,0.07,0.0,0.01,0.33
+Hulk,2003,Radical Entertainment,Universal Interactive,Hulk,7893,GC,Action,0.15,0.04,0.0,0.01,0.19
+The Incredible Hulk,2008,Edge of Reality,Sega,The Incredible Hulk,5038,PS2,Action,0.32,0.01,0.0,0.05,0.38
+The Incredible Hulk,2008,Edge of Reality,Sega,The Incredible Hulk,5721,Wii,Action,0.28,0.01,0.0,0.02,0.31
+The Incredible Hulk,2008,Edge of Reality,Sega,The Incredible Hulk,6366,PS3,Action,0.22,0.03,0.0,0.03,0.27
+The Incredible Hulk,2008,Edge of Reality,Sega,The Incredible Hulk,6386,X360,Action,0.22,0.03,0.0,0.02,0.27
+The Incredible Hulk,2008,Edge of Reality,Sega,The Incredible Hulk,6807,DS,Action,0.22,0.0,0.0,0.02,0.24
+The Incredibles,2004,Heavy Iron Studios,THQ,The Incredibles,668,PS2,Action,0.96,1.08,0.04,0.3,2.37
+The Incredibles,2004,Heavy Iron Studios,THQ,The Incredibles,819,GBA,Action,1.15,0.77,0.04,0.1,2.06
+The Incredibles,2004,Heavy Iron Studios,THQ,The Incredibles,2463,GC,Action,0.65,0.17,0.0,0.02,0.84
+Independence Day,1997,Radical Entertainment,Fox Interactive,Independence Day,4440,PS,Shooter,0.25,0.17,0.0,0.03,0.44
+Iron Man,2008,"Secret Level (X360, PS3)",Sega,Iron Man,2980,PS3,Action,0.32,0.25,0.0,0.11,0.68
+Iron Man,2008,"Secret Level (X360, PS3)",Sega,Iron Man,3202,PSP,Action,0.46,0.09,0.0,0.09,0.63
+Iron Man,2008,"Secret Level (X360, PS3)",Sega,Iron Man,3397,Wii,Action,0.31,0.22,0.0,0.06,0.59
+Iron Man,2008,"Secret Level (X360, PS3)",Sega,Iron Man,3517,X360,Action,0.27,0.24,0.0,0.06,0.57
+Iron Man,2008,"Secret Level (X360, PS3)",Sega,Iron Man,3690,PS2,Action,0.36,0.0,0.0,0.19,0.54
+Iron Man,2008,"Secret Level (X360, PS3)",Sega,Iron Man,3874,DS,Action,0.35,0.12,0.0,0.05,0.52
+Iron Man 2,2010,"Sega Studios San Francisco (Xbox 360, PlayStation 3, Nintendo DS)",Sega,Iron Man 2,4825,PS3,Action,0.14,0.19,0.0,0.07,0.4
+Iron Man 2,2010,"Sega Studios San Francisco (Xbox 360, PlayStation 3, Nintendo DS)",Sega,Iron Man 2,5042,PSP,Action,0.18,0.12,0.0,0.07,0.38
+Iron Man 2,2010,"Sega Studios San Francisco (Xbox 360, PlayStation 3, Nintendo DS)",Sega,Iron Man 2,5371,DS,Action,0.15,0.16,0.0,0.03,0.34
+Iron Man 2,2010,"Sega Studios San Francisco (Xbox 360, PlayStation 3, Nintendo DS)",Sega,Iron Man 2,5462,Wii,Action,0.15,0.15,0.0,0.03,0.33
+Iron Man 2,2010,"Sega Studios San Francisco (Xbox 360, PlayStation 3, Nintendo DS)",Sega,Iron Man 2,6284,X360,Action,0.15,0.1,0.0,0.03,0.27
+The Italian Job,2003,Climax Brighton,Eidos Interactive,The Italian Job (2003),7083,PS2,Racing,0.11,0.09,0.0,0.03,0.23
+The Italian Job,2003,Climax Brighton,Eidos Interactive,The Italian Job (2003),11449,XB,Racing,0.06,0.02,0.0,0.0,0.08
+The Italian Job,2003,Climax Brighton,Eidos Interactive,The Italian Job (2003),14208,GC,Racing,0.03,0.01,0.0,0.0,0.03
+Kung Fu Panda,2008,"Luxoflux (PlayStation 3, Xbox 360)",Activision,Kung Fu Panda,459,X360,Action,1.91,0.84,0.0,0.29,3.05
+Kung Fu Panda,2008,"Luxoflux (PlayStation 3, Xbox 360)",Activision,Kung Fu Panda,1571,DS,Action,0.56,0.57,0.0,0.14,1.26
+Kung Fu Panda,2008,"Luxoflux (PlayStation 3, Xbox 360)",Activision,Kung Fu Panda,2259,Wii,Action,0.5,0.32,0.0,0.09,0.92
+Kung Fu Panda,2008,"Luxoflux (PlayStation 3, Xbox 360)",Activision,Kung Fu Panda,3098,PS2,Action,0.24,0.0,0.0,0.41,0.65
+Kung Fu Panda,2008,"Luxoflux (PlayStation 3, Xbox 360)",Activision,Kung Fu Panda,3855,PS3,Action,0.21,0.21,0.0,0.09,0.52
+Kung Fu Panda,2008,"Luxoflux (PlayStation 3, Xbox 360)",Activision,Kung Fu Panda,15035,PC,Action,0.0,0.02,0.0,0.0,0.02
+Kung Fu Panda 2,2011,Griptonite Games,THQ,Kung Fu Panda 2,6653,X360,Action,0.16,0.07,0.0,0.02,0.25
+Kung Fu Panda 2,2011,Griptonite Games,THQ,Kung Fu Panda 2,6982,DS,Action,0.16,0.05,0.0,0.02,0.23
+Kung Fu Panda 2,2011,Griptonite Games,THQ,Kung Fu Panda 2,9020,Wii,Action,0.08,0.05,0.0,0.01,0.14
+Kung Fu Panda 2,2011,Griptonite Games,THQ,Kung Fu Panda 2,10683,PS3,Action,0.04,0.04,0.0,0.02,0.1
+Kung Fu Panda: Legendary Warriors,2008,Artificial Mind and Movement,Activision,Kung Fu Panda franchise,11732,Wii,Action,0.07,0.0,0.0,0.0,0.08
+Kung Fu Panda: Legendary Warriors,2008,Artificial Mind and Movement,Activision,Kung Fu Panda franchise,14573,DS,Action,0.02,0.0,0.0,0.0,0.03
+Kung Fu Panda: Showdown of Legendary Legends,2015,Vicious Cycle Software,Little Orbit,Kung Fu Panda franchise,14548,X360,Action,0.0,0.03,0.0,0.0,0.03
+Kung Fu Panda: Showdown of Legendary Legends,2015,Vicious Cycle Software,Little Orbit,Kung Fu Panda franchise,15174,PS3,Action,0.0,0.02,0.0,0.0,0.02
+Kung Fu Panda: Showdown of Legendary Legends,2015,Vicious Cycle Software,Little Orbit,Kung Fu Panda franchise,15339,3DS,Action,0.0,0.02,0.0,0.0,0.02
+Land of the Dead: Road to Fiddler's Green,2005,Brainbox Games,Groove Games,Land of the Dead,12355,XB,Shooter,0.05,0.01,0.0,0.0,0.06
+The Last Airbender,2010,THQ Studio Australia (Wii),THQ,The Last Airbender,7445,Wii,Action,0.12,0.07,0.0,0.02,0.21
+The Last Airbender,2010,THQ Studio Australia (Wii),THQ,The Last Airbender,8007,DS,Action,0.13,0.04,0.0,0.01,0.18
+Lemony Snicket's A Series of Unfortunate Events,2004,Adrenium Games (console),Activision,Lemony Snicket's A Series of Unfortunate Events,3182,PS2,Platform,0.31,0.24,0.0,0.08,0.64
+Lemony Snicket's A Series of Unfortunate Events,2004,Adrenium Games (console),Activision,Lemony Snicket's A Series of Unfortunate Events,4613,GBA,Platform,0.3,0.11,0.0,0.01,0.42
+Lemony Snicket's A Series of Unfortunate Events,2004,Adrenium Games (console),Activision,Lemony Snicket's A Series of Unfortunate Events,6580,GC,Platform,0.2,0.05,0.0,0.01,0.26
+Lemony Snicket's A Series of Unfortunate Events,2004,Adrenium Games (console),Activision,Lemony Snicket's A Series of Unfortunate Events,9730,XB,Platform,0.09,0.03,0.0,0.0,0.12
+The Lord of the Rings: Aragorn's Quest,2010,Headstrong Games,Warner Bros. Interactive Entertainment,Lord of the Rings film trilogy,6852,Wii,Action,0.17,0.05,0.0,0.02,0.24
+The Lord of the Rings: Aragorn's Quest,2010,Headstrong Games,Warner Bros. Interactive Entertainment,Lord of the Rings film trilogy,8300,PS3,Action,0.1,0.04,0.0,0.02,0.17
+The Lord of the Rings: Aragorn's Quest,2010,Headstrong Games,Warner Bros. Interactive Entertainment,Lord of the Rings film trilogy,9755,DS,Action,0.1,0.02,0.0,0.01,0.12
+The Lord of the Rings: Aragorn's Quest,2010,Headstrong Games,Warner Bros. Interactive Entertainment,Lord of the Rings film trilogy,9944,PSP,Action,0.07,0.02,0.0,0.02,0.12
+The Lord of the Rings: Aragorn's Quest,2010,Headstrong Games,Warner Bros. Interactive Entertainment,Lord of the Rings film trilogy,12760,PS2,Action,0.03,0.02,0.0,0.01,0.06
+The Lord of the Rings: War in the North,2011,Snowblind Studios,Warner Bros. Interactive Entertainment,Lord of the Rings film trilogy,7998,PC,Action,0.04,0.11,0.0,0.03,0.18
+Madagascar,2005,Toys for Bob[o],Activision,Madagascar,1507,PS2,Platform,0.78,0.45,0.0,0.07,1.31
+Madagascar,2005,Toys for Bob[o],Activision,Madagascar,2326,GBA,Platform,0.62,0.24,0.0,0.03,0.89
+Madagascar,2005,Toys for Bob[o],Activision,Madagascar,3067,GC,Platform,0.52,0.13,0.0,0.02,0.66
+Madagascar,2005,Toys for Bob[o],Activision,Madagascar,5777,DS,Platform,0.25,0.04,0.0,0.03,0.31
+Madagascar,2005,Toys for Bob[o],Activision,Madagascar,6225,XB,Platform,0.21,0.06,0.0,0.01,0.28
+Madagascar: Operation Penguin,2005,Vicarious Visions,Activision,Madagascar,4090,GBA,Action,0.35,0.13,0.0,0.01,0.48
+Men in Black II: Alien Escape,2002,Infogrames Melbourne House[p],Infogrames,Men in Black II,4013,PS2,Shooter,0.24,0.19,0.0,0.06,0.5
+Minority Report: Everybody Runs,2002,Treyarch,Activision,Minority Report,4779,PS2,Action,0.2,0.15,0.0,0.05,0.41
+Minority Report: Everybody Runs,2002,Treyarch,Activision,Minority Report,10577,GC,Action,0.08,0.02,0.0,0.0,0.1
+Minority Report: Everybody Runs,2002,Treyarch,Activision,Minority Report,10814,XB,Action,0.07,0.02,0.0,0.0,0.1
+Minority Report: Everybody Runs,2002,Treyarch,Activision,Minority Report,13967,GBA,Action,0.03,0.01,0.0,0.0,0.04
+Monster House,2006,Artificial Mind and Movement,THQ,Monster House,8672,DS,Adventure,0.14,0.01,0.0,0.01,0.16
+Monster House,2006,Artificial Mind and Movement,THQ,Monster House,9045,PS2,Adventure,0.07,0.05,0.0,0.02,0.14
+Monster House,2006,Artificial Mind and Movement,THQ,Monster House,9165,GC,Adventure,0.11,0.03,0.0,0.0,0.14
+Monster House,2006,Artificial Mind and Movement,THQ,Monster House,11249,GBA,Adventure,0.06,0.02,0.0,0.0,0.09
+Monsters vs. Aliens,2009,Beenox,Activision,Monsters vs. Aliens,3912,DS,Action,0.33,0.13,0.0,0.05,0.51
+Monsters vs. Aliens,2009,Beenox,Activision,Monsters vs. Aliens,5811,PS3,Action,0.21,0.06,0.0,0.03,0.31
+Monsters vs. Aliens,2009,Beenox,Activision,Monsters vs. Aliens,6543,Wii,Action,0.14,0.09,0.0,0.03,0.26
+Monsters vs. Aliens,2009,Beenox,Activision,Monsters vs. Aliens,7920,PS2,Action,0.11,0.0,0.0,0.08,0.19
+Monsters vs. Aliens,2009,Beenox,Activision,Monsters vs. Aliens,8367,X360,Action,0.12,0.03,0.0,0.01,0.17
+Monsters vs. Aliens,2009,Beenox,Activision,Monsters vs. Aliens,14630,PC,Action,0.01,0.01,0.0,0.0,0.03
+Napoleon Dynamite: The Game,2007,7 Studios,Crave Entertainment,Napoleon Dynamite,14009,PSP,Puzzle,0.03,0.0,0.0,0.0,0.04
+Napoleon Dynamite: The Game,2007,7 Studios,Crave Entertainment,Napoleon Dynamite,14902,DS,Puzzle,0.02,0.0,0.0,0.0,0.03
+Open Season,2006,Ubisoft Montreal,Ubisoft,Open Season,8232,GC,Platform,0.13,0.03,0.0,0.0,0.17
+Open Season,2006,Ubisoft Montreal,Ubisoft,Open Season,9304,DS,Platform,0.12,0.0,0.0,0.01,0.14
+Open Season,2006,Ubisoft Montreal,Ubisoft,Open Season,10115,X360,Platform,0.1,0.0,0.0,0.01,0.11
+Open Season,2006,Ubisoft Montreal,Ubisoft,Open Season,11685,PSP,Platform,0.07,0.0,0.0,0.01,0.08
+Open Season,2006,Ubisoft Montreal,Ubisoft,Open Season,11956,Wii,Platform,0.06,0.0,0.0,0.01,0.07
+Open Season,2006,Ubisoft Montreal,Ubisoft,Open Season,14866,PS2,Platform,0.01,0.01,0.0,0.0,0.03
+Over the Hedge,2006,Vicarious Visions,Activision,Over the Hedge,3746,PS2,Platform,0.45,0.02,0.0,0.07,0.54
+Over the Hedge,2006,Vicarious Visions,Activision,Over the Hedge,5345,GC,Platform,0.27,0.07,0.0,0.01,0.35
+Over the Hedge,2006,Vicarious Visions,Activision,Over the Hedge,6214,DS,Platform,0.25,0.01,0.0,0.02,0.28
+Over the Hedge,2006,Vicarious Visions,Activision,Over the Hedge,6326,GBA,Platform,0.19,0.07,0.0,0.0,0.27
+Over the Hedge,2006,Vicarious Visions,Activision,Over the Hedge,10671,XB,Platform,0.07,0.02,0.0,0.0,0.1
+Over the Hedge: Hammy Goes Nuts!,2006,Vicarious Visions (Game Boy Advance version),Activision,Over the Hedge,9402,DS,Platform,0.12,0.0,0.0,0.01,0.13
+Over the Hedge: Hammy Goes Nuts!,2006,Vicarious Visions (Game Boy Advance version),Activision,Over the Hedge,13073,PSP,Platform,0.05,0.0,0.0,0.0,0.05
+Planet of the Apes,2001,Visiware (PC and PlayStation),Ubisoft,Planet of the Apes,14563,GBA,Action,0.02,0.01,0.0,0.0,0.03
+The Polar Express,2004,Blue Tongue Entertainment,THQ,The Polar Express,7116,PS2,Adventure,0.11,0.09,0.0,0.03,0.23
+The Polar Express,2004,Blue Tongue Entertainment,THQ,The Polar Express,7848,GBA,Adventure,0.14,0.05,0.0,0.0,0.19
+The Polar Express,2004,Blue Tongue Entertainment,THQ,The Polar Express,10289,GC,Adventure,0.08,0.02,0.0,0.0,0.11
+The Punisher,2005,Volition,THQ,The Punisher,3865,PS2,Action,0.25,0.2,0.0,0.07,0.52
+The Punisher,2005,Volition,THQ,The Punisher,6052,XB,Action,0.22,0.06,0.0,0.01,0.29
+Puss in Boots,2011,Blitz Games,THQ,Puss in Boots,7063,X360,Action,0.2,0.02,0.0,0.02,0.23
+Puss in Boots,2011,Blitz Games,THQ,Puss in Boots,7198,Wii,Action,0.19,0.01,0.0,0.01,0.22
+Puss in Boots,2011,Blitz Games,THQ,Puss in Boots,10212,DS,Action,0.09,0.01,0.0,0.01,0.11
+Puss in Boots,2011,Blitz Games,THQ,Puss in Boots,11187,PS3,Action,0.07,0.01,0.0,0.01,0.09
+007: Quantum of Solace,2008,Treyarch[t],Activision,Casino Royale and Quantum of Solace,1275,X360,Action,0.82,0.52,0.01,0.14,1.49
+007: Quantum of Solace,2008,Treyarch[t],Activision,Casino Royale and Quantum of Solace,1741,PS3,Action,0.43,0.52,0.02,0.2,1.16
+007: Quantum of Solace,2008,Treyarch[t],Activision,Casino Royale and Quantum of Solace,3040,Wii,Action,0.3,0.29,0.01,0.07,0.67
+007: Quantum of Solace,2008,Treyarch[t],Activision,Casino Royale and Quantum of Solace,4501,PS2,Action,0.17,0.0,0.0,0.26,0.43
+007: Quantum of Solace,2008,Treyarch[t],Activision,Casino Royale and Quantum of Solace,9320,DS,Action,0.11,0.01,0.0,0.01,0.14
+007: Quantum of Solace,2008,Treyarch[t],Activision,Casino Royale and Quantum of Solace,14550,PC,Action,0.01,0.01,0.0,0.0,0.03
+Ratatouille,2007,"Asobo Studio (PS2, Wii, GCN, Xbox, PC, OS X)",THQ,Ratatouille,1580,DS,Action,0.5,0.62,0.0,0.14,1.26
+Ratatouille,2007,"Asobo Studio (PS2, Wii, GCN, Xbox, PC, OS X)",THQ,Ratatouille,2447,PS2,Action,0.31,0.0,0.0,0.53,0.85
+Ratatouille,2007,"Asobo Studio (PS2, Wii, GCN, Xbox, PC, OS X)",THQ,Ratatouille,3031,PSP,Action,0.22,0.28,0.0,0.16,0.67
+Ratatouille,2007,"Asobo Studio (PS2, Wii, GCN, Xbox, PC, OS X)",THQ,Ratatouille,3853,PS3,Action,0.09,0.32,0.0,0.11,0.52
+Ratatouille,2007,"Asobo Studio (PS2, Wii, GCN, Xbox, PC, OS X)",THQ,Ratatouille,3859,Wii,Action,0.44,0.04,0.0,0.04,0.52
+Ratatouille,2007,"Asobo Studio (PS2, Wii, GCN, Xbox, PC, OS X)",THQ,Ratatouille,6385,X360,Action,0.23,0.02,0.0,0.02,0.27
+Ratatouille,2007,"Asobo Studio (PS2, Wii, GCN, Xbox, PC, OS X)",THQ,Ratatouille,7705,GBA,Action,0.14,0.05,0.0,0.0,0.2
+Ratatouille,2007,"Asobo Studio (PS2, Wii, GCN, Xbox, PC, OS X)",THQ,Ratatouille,9027,GC,Action,0.11,0.03,0.0,0.0,0.14
+Ratatouille,2007,"Asobo Studio (PS2, Wii, GCN, Xbox, PC, OS X)",THQ,Ratatouille,14398,PC,Action,0.01,0.01,0.0,0.0,0.03
+Ratatouille: Food Frenzy,2007,Helixe,THQ,Ratatouille,6096,DS,Puzzle,0.26,0.0,0.0,0.02,0.29
+Reign of Fire,2002,Kuju Entertainment,BAM! Entertainment,Reign of Fire,6389,PS2,Shooter,0.13,0.1,0.0,0.03,0.27
+Reign of Fire,2002,Kuju Entertainment,BAM! Entertainment,Reign of Fire,10366,GC,Shooter,0.08,0.02,0.0,0.0,0.11
+Reign of Fire,2002,Kuju Entertainment,BAM! Entertainment,Reign of Fire,10750,XB,Shooter,0.07,0.02,0.0,0.0,0.1
+Reign of Fire,2002,Kuju Entertainment,BAM! Entertainment,Reign of Fire,13229,GBA,Shooter,0.03,0.01,0.0,0.0,0.05
+Rocky Balboa,2007,Ubisoft Montreal,Ubisoft,Rocky Balboa,10297,PSP,Sports,0.01,0.09,0.0,0.01,0.11
+The Scorpion King: Rise of the Akkadian,2002,"Point of View, Inc.",Universal Interactive,The Scorpion King,7003,PS2,Action,0.11,0.09,0.0,0.03,0.23
+The Scorpion King: Rise of the Akkadian,2002,"Point of View, Inc.",Universal Interactive,The Scorpion King,10271,GC,Action,0.08,0.02,0.0,0.0,0.11
+Shark Tale,2004,Edge of Reality (console),Activision,Shark Tale,2743,PS2,Action,0.37,0.29,0.0,0.1,0.75
+Shark Tale,2004,Edge of Reality (console),Activision,Shark Tale,2973,GBA,Action,0.49,0.18,0.0,0.01,0.68
+Shark Tale,2004,Edge of Reality (console),Activision,Shark Tale,5945,GC,Action,0.23,0.06,0.0,0.01,0.3
+Shark Tale,2004,Edge of Reality (console),Activision,Shark Tale,7661,XB,Action,0.15,0.04,0.0,0.01,0.2
+Shrek,2001,Digital Illusions CE,TDK Mediactive,Shrek,5264,XB,Platform,0.25,0.1,0.0,0.01,0.36
+Shrek: Hassle at the Castle,2002,"Tose Co., Ltd.",TDK Mediactive,Shrek,3084,GBA,Action,0.47,0.17,0.0,0.01,0.66
+Shrek Super Party,2002,Mass Media,TDK Mediactive,Shrek,6059,PS2,Misc,0.14,0.11,0.0,0.04,0.29
+Shrek Super Party,2002,Mass Media,TDK Mediactive,Shrek,9487,XB,Misc,0.1,0.03,0.0,0.0,0.13
+Shrek 2,2004,Luxoflux (cross-platforming),Activision,Shrek 2,927,PS2,Platform,1.12,0.69,0.03,0.02,1.86
+Shrek 2,2004,Luxoflux (cross-platforming),Activision,Shrek 2,2032,GC,Platform,0.73,0.26,0.01,0.03,1.02
+Shrek 2,2004,Luxoflux (cross-platforming),Activision,Shrek 2,3670,XB,Platform,0.4,0.13,0.0,0.02,0.55
+Shrek SuperSlam,2005,"Shaba Games (PS2, GameCube, Xbox)",Activision,Shrek,4006,PS2,Action,0.24,0.19,0.0,0.06,0.5
+Shrek SuperSlam,2005,"Shaba Games (PS2, GameCube, Xbox)",Activision,Shrek,5489,GBA,Action,0.24,0.09,0.0,0.01,0.33
+Shrek SuperSlam,2005,"Shaba Games (PS2, GameCube, Xbox)",Activision,Shrek,7300,GC,Action,0.17,0.04,0.0,0.01,0.22
+Shrek SuperSlam,2005,"Shaba Games (PS2, GameCube, Xbox)",Activision,Shrek,8067,DS,Action,0.17,0.0,0.0,0.01,0.18
+Shrek SuperSlam,2005,"Shaba Games (PS2, GameCube, Xbox)",Activision,Shrek,10971,XB,Action,0.07,0.02,0.0,0.0,0.09
+Shrek the Third,2007,"7 Studios, Shaba Games (Xbox 360, PC)",Activision,Shrek the Third,2948,X360,Action,0.54,0.1,0.0,0.06,0.69
+Shrek the Third,2007,"7 Studios, Shaba Games (Xbox 360, PC)",Activision,Shrek the Third,4087,PS2,Action,0.4,0.02,0.0,0.07,0.48
+Shrek the Third,2007,"7 Studios, Shaba Games (Xbox 360, PC)",Activision,Shrek the Third,5686,PSP,Action,0.08,0.15,0.0,0.09,0.32
+Shrek the Third,2007,"7 Studios, Shaba Games (Xbox 360, PC)",Activision,Shrek the Third,6069,Wii,Action,0.26,0.01,0.0,0.02,0.29
+Shrek: Ogres & Dronkeys,2007,WayForward Technologies,Activision,Shrek,6184,DS,Simulation,0.26,0.0,0.0,0.02,0.28
+Small Soldiers,1998,DreamWorks Interactive,Electronic Arts,Small Soldiers,3307,PS,Platform,0.34,0.23,0.0,0.04,0.61
+Space Chimps,2008,"Redtribe (PlayStation 2, Wii and Xbox 360)",Brash Entertainment,Space Chimps,9849,PS2,Platform,0.06,0.05,0.0,0.02,0.12
+Space Chimps,2008,"Redtribe (PlayStation 2, Wii and Xbox 360)",Brash Entertainment,Space Chimps,10165,X360,Platform,0.1,0.0,0.0,0.01,0.11
+Space Chimps,2008,"Redtribe (PlayStation 2, Wii and Xbox 360)",Brash Entertainment,Space Chimps,11015,Wii,Platform,0.08,0.0,0.0,0.01,0.09
+Space Chimps,2008,"Redtribe (PlayStation 2, Wii and Xbox 360)",Brash Entertainment,Space Chimps,12799,DS,Platform,0.05,0.0,0.0,0.0,0.06
+Space Jam,1996,Sculptured Software,Acclaim Entertainment,Space Jam,2258,PS,Sports,0.51,0.35,0.0,0.06,0.92
+Spider-Man 2,2004,Treyarch (PS2/Xbox/GameCube),Activision,Spider-Man 2,391,PS2,Action,1.75,1.2,0.02,0.43,3.41
+Spider-Man 2,2004,Treyarch (PS2/Xbox/GameCube),Activision,Spider-Man 2,1832,XB,Action,0.82,0.26,0.0,0.04,1.12
+Spider-Man 2,2004,Treyarch (PS2/Xbox/GameCube),Activision,Spider-Man 2,1961,GBA,Action,0.76,0.28,0.0,0.02,1.06
+Spider-Man 2,2004,Treyarch (PS2/Xbox/GameCube),Activision,Spider-Man 2,2455,GC,Action,0.65,0.17,0.0,0.02,0.84
+Spider-Man 2,2004,Treyarch (PS2/Xbox/GameCube),Activision,Spider-Man 2,3986,DS,Action,0.41,0.02,0.03,0.04,0.5
+Spider-Man 3,2007,Treyarch[y],Activision,Spider-Man 3,2314,PS2,Platform,0.74,0.03,0.01,0.12,0.9
+Spider-Man 3,2007,Treyarch[y],Activision,Spider-Man 3,2982,PS3,Platform,0.26,0.29,0.02,0.12,0.68
+Spider-Man 3,2007,Treyarch[y],Activision,Spider-Man 3,3509,X360,Platform,0.49,0.04,0.0,0.04,0.57
+Spider-Man 3,2007,Treyarch[y],Activision,Spider-Man 3,4132,Wii,Platform,0.42,0.02,0.0,0.04,0.48
+Spider-Man 3,2007,Treyarch[y],Activision,Spider-Man 3,4185,DS,Platform,0.41,0.02,0.0,0.04,0.47
+Spider-Man 3,2007,Treyarch[y],Activision,Spider-Man 3,5862,PSP,Platform,0.01,0.23,0.0,0.06,0.3
+Spider-Man 3,2007,Treyarch[y],Activision,Spider-Man 3,15305,PC,Platform,0.02,0.0,0.0,0.0,0.02
+The SpongeBob SquarePants Movie,2004,Heavy Iron Studios,THQ,The SpongeBob SquarePants Movie,991,PS2,Platform,1.06,0.54,0.0,0.16,1.76
+The SpongeBob SquarePants Movie,2004,Heavy Iron Studios,THQ,The SpongeBob SquarePants Movie,1300,GBA,Platform,1.02,0.38,0.0,0.06,1.46
+The SpongeBob SquarePants Movie,2004,Heavy Iron Studios,THQ,The SpongeBob SquarePants Movie,2200,GC,Platform,0.73,0.19,0.0,0.03,0.94
+The SpongeBob SquarePants Movie,2004,Heavy Iron Studios,THQ,The SpongeBob SquarePants Movie,3694,XB,Platform,0.4,0.12,0.0,0.02,0.54
+Superman Returns,2006,EA Tiburon,Electronic Arts,Superman Returns,6421,X360,Action,0.23,0.02,0.0,0.02,0.27
+Superman Returns,2006,EA Tiburon,Electronic Arts,Superman Returns,11729,DS,Action,0.07,0.0,0.0,0.01,0.08
+Surf's Up,2007,Ubisoft Montreal / Ubisoft Quebec / Totally Games (PS2) (uncredited),Ubisoft,Surf's Up,6074,PS2,Sports,0.14,0.11,0.0,0.04,0.29
+Surf's Up,2007,Ubisoft Montreal / Ubisoft Quebec / Totally Games (PS2) (uncredited),Ubisoft,Surf's Up,6170,DS,Sports,0.26,0.0,0.0,0.02,0.28
+Surf's Up,2007,Ubisoft Montreal / Ubisoft Quebec / Totally Games (PS2) (uncredited),Ubisoft,Surf's Up,8401,Wii,Sports,0.15,0.0,0.0,0.01,0.17
+Surf's Up,2007,Ubisoft Montreal / Ubisoft Quebec / Totally Games (PS2) (uncredited),Ubisoft,Surf's Up,10108,PSP,Sports,0.02,0.06,0.0,0.03,0.11
+Surf's Up,2007,Ubisoft Montreal / Ubisoft Quebec / Totally Games (PS2) (uncredited),Ubisoft,Surf's Up,10564,X360,Sports,0.09,0.0,0.0,0.01,0.1
+Surf's Up,2007,Ubisoft Montreal / Ubisoft Quebec / Totally Games (PS2) (uncredited),Ubisoft,Surf's Up,13795,PS3,Sports,0.03,0.0,0.0,0.0,0.04
+Surf's Up,2007,Ubisoft Montreal / Ubisoft Quebec / Totally Games (PS2) (uncredited),Ubisoft,Surf's Up,16295,GC,Sports,0.01,0.0,0.0,0.0,0.01
+Thor: God of Thunder,2011,"Liquid Entertainment (PS3, Xbox 360)",Sega,Thor,8489,Wii,Action,0.11,0.04,0.0,0.01,0.16
+Thor: God of Thunder,2011,"Liquid Entertainment (PS3, Xbox 360)",Sega,Thor,8806,PS3,Action,0.07,0.06,0.0,0.02,0.15
+Thor: God of Thunder,2011,"Liquid Entertainment (PS3, Xbox 360)",Sega,Thor,8954,X360,Action,0.09,0.04,0.0,0.01,0.15
+Thor: God of Thunder,2011,"Liquid Entertainment (PS3, Xbox 360)",Sega,Thor,9594,DS,Action,0.09,0.03,0.0,0.01,0.13
+Thor: God of Thunder,2011,"Liquid Entertainment (PS3, Xbox 360)",Sega,Thor,10739,3DS,Action,0.06,0.03,0.0,0.01,0.1
+TMNT,2007,Ubisoft Montreal,Ubisoft,TMNT,3655,X360,Action,0.47,0.04,0.0,0.04,0.55
+TMNT,2007,Ubisoft Montreal,Ubisoft,TMNT,4819,Wii,Action,0.34,0.03,0.0,0.03,0.4
+TMNT,2007,Ubisoft Montreal,Ubisoft,TMNT,9962,PSP,Action,0.1,0.01,0.0,0.01,0.12
+TMNT,2007,Ubisoft Montreal,Ubisoft,TMNT,13364,DS,Action,0.03,0.01,0.0,0.0,0.05
+Toy Story 3: The Video Game,2010,"Avalanche Software (PS3, Wii, Xbox 360, Mac OS X, PC)",Disney Interactive Studios,Toy Story 3,773,DS,Action,0.93,0.97,0.02,0.21,2.12
+Toy Story 3: The Video Game,2010,"Avalanche Software (PS3, Wii, Xbox 360, Mac OS X, PC)",Disney Interactive Studios,Toy Story 3,1369,Wii,Action,0.64,0.63,0.0,0.14,1.41
+Toy Story 3: The Video Game,2010,"Avalanche Software (PS3, Wii, Xbox 360, Mac OS X, PC)",Disney Interactive Studios,Toy Story 3,1848,PS3,Action,0.51,0.42,0.0,0.17,1.11
+Toy Story 3: The Video Game,2010,"Avalanche Software (PS3, Wii, Xbox 360, Mac OS X, PC)",Disney Interactive Studios,Toy Story 3,2652,X360,Action,0.41,0.29,0.0,0.07,0.78
+Toy Story 3: The Video Game,2010,"Avalanche Software (PS3, Wii, Xbox 360, Mac OS X, PC)",Disney Interactive Studios,Toy Story 3,3078,PSP,Action,0.27,0.25,0.0,0.14,0.66
+Toy Story Racer,2001,Traveller's Tales,Activision,Toy Story franchise,8938,PS,Racing,0.08,0.06,0.0,0.01,0.15
+Up,2009,"Asobo Studio (PS2, PSP, PC)",THQ,Up,3107,DS,Action,0.31,0.28,0.0,0.07,0.65
+Up,2009,"Asobo Studio (PS2, PSP, PC)",THQ,Up,3514,Wii,Action,0.23,0.28,0.0,0.06,0.57
+Up,2009,"Asobo Studio (PS2, PSP, PC)",THQ,Up,4140,PS2,Action,0.19,0.05,0.0,0.24,0.48
+Up,2009,"Asobo Studio (PS2, PSP, PC)",THQ,Up,4721,PSP,Action,0.24,0.1,0.0,0.07,0.41
+Up,2009,"Asobo Studio (PS2, PSP, PC)",THQ,Up,5982,X360,Action,0.2,0.07,0.0,0.03,0.29
+Up,2009,"Asobo Studio (PS2, PSP, PC)",THQ,Up,6654,PS3,Action,0.15,0.07,0.0,0.03,0.25
+Wanted: Weapons of Fate,2009,Grin,Warner Bros. Interactive Entertainment,Wanted,5139,X360,Shooter,0.17,0.15,0.0,0.04,0.37
+Wanted: Weapons of Fate,2009,Grin,Warner Bros. Interactive Entertainment,Wanted,5937,PS3,Shooter,0.14,0.1,0.01,0.05,0.3
+Where the Wild Things Are,2009,Griptonite Games,Warner Bros. Interactive Entertainment,Where the Wild Things Are,9007,DS,Platform,0.13,0.0,0.0,0.01,0.14
+Where the Wild Things Are,2009,Griptonite Games,Warner Bros. Interactive Entertainment,Where the Wild Things Are,9670,Wii,Platform,0.11,0.0,0.0,0.01,0.12
+Where the Wild Things Are,2009,Griptonite Games,Warner Bros. Interactive Entertainment,Where the Wild Things Are,10138,X360,Platform,0.1,0.0,0.0,0.01,0.11
+Where the Wild Things Are,2009,Griptonite Games,Warner Bros. Interactive Entertainment,Where the Wild Things Are,10280,PS3,Platform,0.09,0.01,0.0,0.01,0.11
